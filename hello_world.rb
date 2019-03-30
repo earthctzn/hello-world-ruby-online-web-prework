@@ -1,1 +1,1 @@
-puts "Aww yea! look at that Einar is coding!"
+puts "Aww yea! look at that!"
